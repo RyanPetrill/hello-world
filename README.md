@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository
+
+Hello, this is my first attempt at editing Master via a branch.
